@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Dontquitapparel.com" # the base hostname & protocol for your site
 twitter_username: Chris_and_Ryan
-facebook_page:  jekyll
+facebook_username: Don't Quit Apparel
 
 # Build settings
 markdown: kramdown
