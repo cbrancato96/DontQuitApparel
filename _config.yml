@@ -16,6 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Dontquitapparel.com" # the base hostname & protocol for your site
 twitter_username: Don't_Quit
 facebook_username: Don't Quit Apparel
+phone.number: 555-555-5555
 
 # Build settings
 markdown: kramdown
