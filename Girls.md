@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Guys
-permalink: /guys/
+title: Girls
+permalink: /girls/
 ---
