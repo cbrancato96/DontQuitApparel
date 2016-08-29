@@ -1,3 +1,5 @@
+---
 layout: page
-title: Shop
-permalink: /shop/
+title: About
+permalink: /about/
+---
